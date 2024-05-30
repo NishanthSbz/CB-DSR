@@ -1,3 +1,3 @@
 # CB-DSR
 
-use 
+pip install streamlit and boto3 for dependencies
